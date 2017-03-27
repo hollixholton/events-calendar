@@ -1,0 +1,50 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+.gray {
+  border-radius: 8px;
+  border-width: 1px;
+  border-style: solid;
+  background-color: #f2f2f2;
+}
+
+.red {
+  border-radius: 8px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #b92828;
+  background-color: #f2bcbc;
+  color: #991919;
+}
+
+.green {
+  border-radius: 8px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #6b7e54;
+  background-color: #d1e0bf;
+  color: #51603f;
+}
+
+.blue {
+  border-radius: 8px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #1d38da;
+  background-color: #d2d6f0;
+  color: #38448e;
+}
+
+td {
+  height: 9em;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ccc;
+}
+
+tr {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #333;
+}
